@@ -1,0 +1,20 @@
+body{
+    background-color: turquoise;
+}
+hr{
+    background-color: rgb(166, 71, 255);
+}
+img{
+    height: 120px;
+}
+hr{
+    border-style: dotted;
+    width: 930px;
+    height: 0px;
+}
+h1{
+    color: gold;
+}
+.zxc{
+    border-radius: 100px;
+}

@@ -1,0 +1,61 @@
+div{
+    background-color: #E4F9F5;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+    
+    margin: 0 auto 0 auto;
+    font-family: montserrat, sans-serif;    
+}
+
+hr{
+    border-style: dotted;
+    width: 930px;
+    height: 0px;
+}
+
+img{
+    border-radius: 100px;
+}
+
+
+
+.middle-container{
+    background-color: #E4F9F5;
+         
+   
+}
+.bottom-container{
+   
+    background-color:skyblue;
+    
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+  padding-top: 100px;    
+
+    }
+
+    .bottom-cloud{
+        position: absolute;
+        right: 300px;
+        left: 280px;
+    }
+    .top-cloud{
+        position: absolute;
+        right: 300px;
+        top: 50px;
+
+
+        
+    }
+
+    .jab{
+        background-color: yellow;
+    }
